@@ -1,3 +1,5 @@
+# Azure DevOps Pipeline Build Status
+[![Build Status](https://dev.azure.com/danielfeuerhake0249/Learning%20Project%20-%20Pipeline/_apis/build/status/danielfeuerhake.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/danielfeuerhake0249/Learning%20Project%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
